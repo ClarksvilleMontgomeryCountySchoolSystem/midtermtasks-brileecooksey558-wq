@@ -17,7 +17,7 @@ ITEM MENU:
 Invisibility Cloak.........$44.99
 Dragon Egg.....................$29.99
 """)
-print(s.menu)
+
 
 
 # Shopkeeper's rule: All purchases must be at least 3 items for good luck!
